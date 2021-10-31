@@ -9,12 +9,18 @@ predicting whether heart disease is present or not.
 Machine Learning algorithms used:
 
 Logistic Regression (Scikit-learn)
+
 Naive Bayes (Scikit-learn)
+
 Support Vector Machine (Linear) (Scikit-learn)
+
 K-Nearest Neighbours (Scikit-learn)
+
 Decision Tree (Scikit-learn)
+
 Random Forest (Scikit-learn)
+
 XGBoost (Scikit-learn)
 
-The best accuracy was given by Random Forest i.e. 91.8 %. 
+**The best accuracy was given by Random Forest i.e. 91.8 %.** 
 
